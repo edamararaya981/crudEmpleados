@@ -13,7 +13,7 @@ if (isset($_SESSION['nameUser'])) {
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>IL MERCATO</title>
+	<title>IL MERCATO...</title>
 	<link rel="stylesheet" type="text/css" href="Assets/css/bootstrap.min.css">
 </head>
 <body>
